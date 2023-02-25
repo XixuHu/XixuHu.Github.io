@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can access the PDF version [here](http://xixuhu.github.io/files//files//paper1.pdf). 
+
 Education
 ======
 * B.S. in Statistics, University of Science and Technology of China, 2016.9-2020.6
