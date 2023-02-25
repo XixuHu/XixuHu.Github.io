@@ -47,15 +47,17 @@ Work experience
     - Develop EM algorithm to deal with missing modalities problem in multimodal learning of Alzheimer disease diagnosis
     - Construct convolutional neural networks using magnetic resonance imaging to classify patients with Alzheimer disease and normal control people.
   * Supervisor: Prof. [Jing Li](https://sites.gatech.edu/jing-li/)
-  
-Skills
-======
+
+
+
+Programming Languages: C, MATLAB, R, Python
+<!-- ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
@@ -75,6 +77,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
