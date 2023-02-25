@@ -38,10 +38,18 @@ Work experience
   * Research Output: One paper published in [SIAM Undergraduate Research Online](https://www.scilit.net/journal/1012895): [Clinical data validated mathematical model for intermittent abiraterone response in castration-resistant prostate cancer patients](https://www.siam.org/Portals/0/Publications/SIURO/Vol14/S130057PDF.pdf?ver=2021-02-22-130958-820)
   * Supervisor: Prof. [Yang Kuang](https://math.la.asu.edu/~kuang/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2019: Research Assistant
+  * Department of Mathematics, Arizona State University
+  * A Competitive Model for Drug-Resistant Evolution of E. coli cells: 
+    - Developed a biological reasonable ODE model to mathematically demonstrate the drug-resistant evolution of E. coli.  
+    - Validated our model using real biological experimental data and the numerical simulation fit the data perfectly.
+    - Used this model to further inspire new explanation of biological mechanisms about drug- resistant evolution.
+  * Mathematical System of Nutrient Allocation Strategy in E. coli cells
+    - Built and modified an equation system to depict the dynamic behavior of GFP/OD and greatly fitted the experiments.
+    - Used MATLAB to search for the optimized parameters and adjusted parameters in various conditions.
+    - Generalized the system into other complicated situations and the proved to be satisfactory and robust.
+  * Research Output: One paper published in [SIAM Undergraduate Research Online](https://www.scilit.net/journal/1012895): [Clinical data validated mathematical model for intermittent abiraterone response in castration-resistant prostate cancer patients](https://www.siam.org/Portals/0/Publications/SIURO/Vol14/S130057PDF.pdf?ver=2021-02-22-130958-820)
+  * Supervisor: Prof. [Yang Kuang](https://math.la.asu.edu/~kuang/)
   
 Skills
 ======

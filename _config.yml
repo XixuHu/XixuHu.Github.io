@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "HuXixu"
+  name             : "Biography"
   avatar           : "1.png"
   bio              : "PhD student at the City University of Hong Kong"
   location         : "Hong Kong, China"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Xixu Hu"
+  twitter          : "HuXixu"
   vine             :
   weibo            :
   xing             :
