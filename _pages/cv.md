@@ -16,6 +16,15 @@ Education
 
 Work experience
 ======
+* Fall 2018: Research Assistant
+  * Department of Statistics & Finance, University of Science and Technology of China
+  * A Bayesian Method for Systemic Risk Assessment in Financial Networks: 
+    - Collected data from different banks’ yearbooks to build a complete Chinese banks liability database.  
+    - Applied a Bayesian methodology and constructed a Gibbs sampler to generate samples for individual liabilities in Chinese interbank networks.
+    - Derived default probabilities of individual banks and compared the performance with other reconstruction models.
+  * Research Output: One article published in [Physica A: Statistical Mechanics and its Applications](https://www.sciencedirect.com/journal/physica-a-statistical-mechanics-and-its-applications): [Solvency contagion risk in the Chinese commercial banks’ network](https://www.sciencedirect.com/science/article/abs/pii/S0378437121004015?via%3Dihub) 
+  * Supervisor: Prof. [Yu Chen](http://staff.ustc.edu.cn/~cyu/)
+
 * Summer 2019: Research Assistant
   * Department of Mathematics, Arizona State University
   * A Competitive Model for Drug-Resistant Evolution of E. coli cells: 
@@ -26,6 +35,7 @@ Work experience
     - Built and modified an equation system to depict the dynamic behavior of GFP/OD and greatly fitted the experiments.
     - Used MATLAB to search for the optimized parameters and adjusted parameters in various conditions.
     - Generalized the system into other complicated situations and the proved to be satisfactory and robust.
+  * Research Output: One paper published in [SIAM Undergraduate Research Online](https://www.scilit.net/journal/1012895): [Clinical data validated mathematical model for intermittent abiraterone response in castration-resistant prostate cancer patients](https://www.siam.org/Portals/0/Publications/SIURO/Vol14/S130057PDF.pdf?ver=2021-02-22-130958-820)
   * Supervisor: Prof. [Yang Kuang](https://math.la.asu.edu/~kuang/)
 
 * Fall 2015: Research Assistant
