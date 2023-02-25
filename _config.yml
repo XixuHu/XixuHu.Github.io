@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Xixu Hu"
-  avatar           : "微信图片_20230225211928.jpg"
+  avatar           : "1.png"
   bio              : "PhD student at the City University of Hong Kong"
   location         : "Hong Kong, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "xixuhu2-"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=lrZCo_4AAAAJ"
+  email            : "xixuhu2-c@my.cityu.edu.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
