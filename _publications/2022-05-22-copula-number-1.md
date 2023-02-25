@@ -1,0 +1,15 @@
+---
+title: "Deep into The Domain Shift: Transfer Learning through Dependence Regularization"
+collection: publications
+permalink: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4206319"
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2022-05-22
+venue: 'SSRN'
+paperurl: 'https://drive.google.com/file/d/1y9uGRS-_2AQ1PfGDrNDX4xUSdb093dxk/view'
+# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+---
+In this papaer, we develop a novel domain adaptation method that can flexibly model the correspondence strength between source distributions and target distributions. We successfully apply it into two financial big-data scenarios: Hong Kong Exchange stock price prediction and JD.com customer credit defaults prediction. Large-scale experiments and ablation studies have demonstrated the effectiveness of our proposed models.
+
+[Download paper here](https://drive.google.com/file/d/1y9uGRS-_2AQ1PfGDrNDX4xUSdb093dxk/view)
+
+<!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
