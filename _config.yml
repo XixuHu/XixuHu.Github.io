@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xixu Hu"
+title                    : "Biography"
 title_separator          : "-"
 name                     : &name "XixuHu"
 description              : &description "PhD student at the School of Data Science, City University of Hong Kong"
