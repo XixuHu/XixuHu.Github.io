@@ -50,8 +50,9 @@ Research experience
 
 
 
-Programming Languages: C, MATLAB, R, Python
-
+Programming Languages
+======
+C, MATLAB, R, Python
 
 Publications
 ======
