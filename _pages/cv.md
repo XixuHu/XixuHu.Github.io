@@ -16,7 +16,7 @@ Education
 * B.S. in Statistics, University of Science and Technology of China, 2016.9-2020.6
 * Ph.D in Data Science, City University of Hong Kong, 2020.9-2024.6 (expected)
 
-Work experience
+Research experience
 ======
 * Fall 2018: Research Assistant
   * Department of Statistics & Finance, University of Science and Technology of China
