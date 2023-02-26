@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xixu Hu"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
