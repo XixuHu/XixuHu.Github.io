@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can access the PDF version [here](http://xixuhu.github.io/files//files//paper1.pdf). 
+You can access the PDF version [here](/files/CV.pdf). (Last update: 2023.2)
 
 Education
 ======
